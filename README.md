@@ -4,7 +4,7 @@
 
 </head>
 <body>
-<h1>FullStack Developers Software</h1>
+<h1>FULLSTACK DEVELOPER SOFTWARE/h1>
 <h2>Gestión de Proyecto en GitHub</h2>
 
 <p>Git y GitHub son herramientas esenciales para el desarrollo de software que permiten gestionar cambios en el código y colaborar eficientemente y

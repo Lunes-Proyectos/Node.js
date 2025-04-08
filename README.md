@@ -14,7 +14,7 @@
  &nbsp;
  <img src="https://github.com/user-attachments/assets/85b89897-7c5e-45c9-bcff-ad41e3503202" alt="Imagen de GitHub">
 &nbsp &nbsp;
- <img src="https://github.com/user-attachments/assets/d79cedad-ba1e-4ab7-8ed8-91e3a3ab5ee7" alt="Imagen de GitHub">
+ <img src="https://github.com/user-attachments/assets/87c06f0d-f15f-48aa-a3d6-5f96df00531a" alt="Imagen de GitHub">
 
 <p> Ingeniero: Carlos Zambrano E.</p>
 .............................................................................................................................................

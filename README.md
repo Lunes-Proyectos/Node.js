@@ -5,13 +5,15 @@
 <h2>Gestión de Proyecto en GitHub</h2>
 <p>GitHub es una plataforma para que los desarrolladores compartan código, colaboren en proyectos y gestionen el desarrollo de software de manera eficiente.</p>
 <p> Ingeniero: Carlos Zambrano E.</p>
+ 
  <img src="https://github.com/user-attachments/assets/a6d89ebc-5f11-4e93-a65f-249aaa3fa0ec" alt="Ingeniero"> 
- &nbsp;
+ &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp;
+ 
  <img src="https://github.com/user-attachments/assets/85b89897-7c5e-45c9-bcff-ad41e3503202" alt="Imagen de GitHub">
-&nbsp &nbsp;
+ &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp;
+ 
  <img src="https://github.com/user-attachments/assets/859d5a7a-93ae-41f7-8fe3-db34aacacdf9" alt="Imagen de GitHub">
-
-<p> Ingeniero: Carlos Zambrano E.</p>
+ &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp;
 <h3>
 <p><b>Equipo de trabajo en proyectos de Integración</p></b>
 
@@ -23,7 +25,7 @@
 
  <img src="https://github.com/user-attachments/assets/5c560306-70f7-41a2-92de-d6a7bc7771c8" alt="Imagen de GitHub">
 &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp;
-<p>------------------------------------------------------------------------------------------------------------------</p>
+<p>---------------------------------------------------------------------------------------------------------------------------</p>
 <p><b>Proyecto de Integración y Desarrollo con:</p></b>
 <ul>
 <li>Plataforma basada en la nube con GitHub.</li>

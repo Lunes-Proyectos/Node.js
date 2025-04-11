@@ -4,7 +4,7 @@
 <h1>FULLSTACK DEVELOPERE</h1>
 <h2>Gestión de Proyecto en GitHub</h2>
 <p>GitHub es una plataforma para que los desarrolladores compartan código, colaboren en proyectos y gestionen el desarrollo de software de manera eficiente.</p>
-
+<p> Ingeniero: Carlos Zambrano E.</p>
  <img src="https://github.com/user-attachments/assets/a6d89ebc-5f11-4e93-a65f-249aaa3fa0ec" alt="Ingeniero"> 
  &nbsp;
  <img src="https://github.com/user-attachments/assets/85b89897-7c5e-45c9-bcff-ad41e3503202" alt="Imagen de GitHub">
